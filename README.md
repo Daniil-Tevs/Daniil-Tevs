@@ -1,12 +1,13 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+![image](https://github.com/Daniil-Tevs/Daniil-Tevs/assets/92604625/71954bf2-52bc-4dea-8c6f-fc98a4c5fa7f)<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Juniour web developer</h3>
 
-<div style="display:flex;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Tevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daniil-Tevs)](https://git.io/streak-stats)
-</div>
+
 <!--
 **Daniil-Tevs/Daniil-Tevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
