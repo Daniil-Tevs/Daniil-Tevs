@@ -4,7 +4,7 @@
 <h3 align="center">I'm a junior web developer. I'm actively studying JavaScript, React and Node Js</h3>
 <br>
 
-<h1 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 𝓪𝓷𝓭 𝓶𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮</a> 
+<h1 align="center">𝕬𝖇𝖔𝖚𝖙 𝖒𝖊 𝖆𝖓𝖉 𝖒𝖞 𝖊𝖝𝖕𝖊𝖗𝖎𝖊𝖓𝖈𝖊</a> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Aimart)](https://git.io/typing-svg)
 
