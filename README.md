@@ -2,8 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">I'm a junior web developer. I'm actively studying JavaScript, React and Node Js</h3>
+<br><br>
 
-## About me and my experience
+<h1 align="center">𝕬𝖇𝖔𝖚𝖙 𝖒𝖊 𝖆𝖓𝖉 𝖒𝖞 𝖊𝖝𝖕𝖊𝖗𝖎𝖊𝖓𝖈𝖊</a> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Aimart)](https://git.io/typing-svg)
 
