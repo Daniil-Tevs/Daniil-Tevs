@@ -1,4 +1,4 @@
-![image](https://github.com/Daniil-Tevs/Daniil-Tevs/assets/92604625/71954bf2-52bc-4dea-8c6f-fc98a4c5fa7f)<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Juniour web developer</h3>
 
