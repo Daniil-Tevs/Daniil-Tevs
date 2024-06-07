@@ -1,9 +1,9 @@
-<h1 align="center" color="fea600">ℌ𝔦, ℑ'𝔪 <a href="https://t.me/reverse_light/" target="_blank">𝕯𝖆𝖓𝖎𝖎𝖑</a> 
+<h1 align="center">ℌ𝔦, ℑ'𝔪 <a href="https://t.me/reverse_light/" target="_blank">𝕯𝖆𝖓𝖎𝖎𝖑</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">I'm a junior web developer. At the moment I am actively studying JavaScript, React and Node Js</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fea600&lines=About+me+and+my+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=About+me+and+my+experience)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
