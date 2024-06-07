@@ -22,6 +22,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Baltic+Federal+Universityy)](https://git.io/typing-svg)
 
+<p>At university we studied basic programming knowledge, algorithms and OOP in the programming language C++. Also participated in the hackathon, it was a valuable experience on it I learned how to do bots in a telegram in the programming language Python</p>
+
+
+<h1 align="center">𝕬𝖇𝖔𝖚𝖙 𝖒𝖊 𝖆𝖓𝖉 𝖒𝖞 𝖊𝖝𝖕𝖊𝖗𝖎𝖊𝖓𝖈𝖊</a></h1>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Tevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
