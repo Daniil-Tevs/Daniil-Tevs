@@ -11,7 +11,7 @@
 <p>Now I am engaged in active study of Js, React and Node Js. I will consolidate my knowledge in new projects. Now this is Fopus - <a href="https://github.com/Daniil-Tevs/fopus-server" target="_blank">Server</a>, <a href="https://github.com/Daniil-Tevs/fopus-client" target="_blank">Client</a> and <a href="https://github.com/Daniil-Tevs/fopus-admin" target="_blank">Admin panel</a>, this project was created to protect the course work at the University. It is my first work done entirely using React and Node js</p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Freelance")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Freelance)](https://git.io/typing-svg)
 
 <p>While working at the company came interesting orders from my acquaintances. It was mainly the development of sites on Bitrix, Wordpress and writing various api. Once there was a project to integrate with the calendars mail.ru and yandex.ru by Oauth authorization. There is also experience with the company behind the scenes - site development, etc. But the most interesting task was to write a full-fledged api for crm. Well, and thanks to freelance I touched the topic of website optimization</p>
 
