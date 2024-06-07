@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Studying+in+the+Bitrix+University)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Studying+in+the+Immanuel+Kant+Baltic+Federal+Universityy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Studying+in+the+Baltic+Federal+Universityy)](https://git.io/typing-svg)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Tevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
