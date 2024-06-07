@@ -23,9 +23,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Baltic+Federal+Universityy)](https://git.io/typing-svg)
 
 <p>At university we studied basic programming knowledge, algorithms and OOP in the programming language C++. Also participated in the hackathon, it was a valuable experience on it I learned how to do bots in a telegram in the programming language Python - <a href="https://github.com/Daniil-Tevs/ZodiacWorks" target="_blank">ZodiacWorks</a>, <a href="https://github.com/Daniil-Tevs/ScheduleBot" target="_blank">ScheduleBot</a> и <a href="https://github.com/Daniil-Tevs/VkInfoBot">VkInfoBot</a></p>
-
-
+<br>
 <h1 align="center">𝕾𝖔𝖒𝖊 𝖎𝖓𝖋𝖔 𝖋𝖗𝖔𝖒 𝖓𝖞 𝖌𝖎𝖙</h1>
+<p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Tevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
