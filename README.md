@@ -31,6 +31,10 @@
 
 <p>At university we studied basic programming knowledge, algorithms and OOP in the programming language C++. Also participated in the hackathon, it was a valuable experience on it I learned how to do bots in a telegram in the programming language Python - <a href="https://github.com/Daniil-Tevs/ZodiacWorks" target="_blank">ZodiacWorks</a>, <a href="https://github.com/Daniil-Tevs/ScheduleBot" target="_blank">ScheduleBot</a> и <a href="https://github.com/Daniil-Tevs/VkInfoBot">VkInfoBot</a></p>
 <br>
+<h1 align="center">Contacts</h1>
+<a href="https://t.me/reverse_light/">Telegram</a>
+<a href="mailto:daniil_tevs@mail.ru">Почта</a>
+<br>
 <h1 align="center">𝕾𝖔𝖒𝖊 𝖎𝖓𝖋𝖔 𝖋𝖗𝖔𝖒 𝖓𝖞 𝖌𝖎𝖙</h1>
 <p align="center">
   
