@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Nowadays)](https://git.io/typing-svg)
 
-<p>Now I am engaged in active study of Js, React and Node Js. I will consolidate my knowledge in new projects. Now this is Fopus - [server](https://github.com/Daniil-Tevs/fopus-server), [client](https://github.com/Daniil-Tevs/fopus-client) and [admin panel](https://github.com/Daniil-Tevs/fopus-admin), this project was created to protect the course work at the University. It is my first work done entirely using React and Node js</p>
+<p>Now I am engaged in active study of Js, React and Node Js. I will consolidate my knowledge in new projects. Now this is Fopus - [server](https://github.com/Daniil-Tevs/fopus-server), [client](https://github.com/Daniil-Tevs/fopus-client) and [!admin panel](https://github.com/Daniil-Tevs/fopus-admin), this project was created to protect the course work at the University. It is my first work done entirely using React and Node js</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Company+"Aimart")](https://git.io/typing-svg)
 
