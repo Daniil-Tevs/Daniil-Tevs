@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Company+"Aimart")](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Studying+in+the+Bitrix+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Bitrix+University)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Baltic+Federal+Universityy)](https://git.io/typing-svg)
