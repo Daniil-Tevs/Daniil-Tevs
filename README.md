@@ -33,6 +33,7 @@
 <br>
 <h1 align="center">Contacts</h1>
 <a href="https://t.me/reverse_light/">Telegram</a>
+<img src="//telegram.org/img/favicon-32x32.png" alt="">
 <a href="mailto:daniil_tevs@mail.ru">Почта</a>
 <br>
 <h1 align="center">𝕾𝖔𝖒𝖊 𝖎𝖓𝖋𝖔 𝖋𝖗𝖔𝖒 𝖓𝖞 𝖌𝖎𝖙</h1>
