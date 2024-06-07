@@ -2,11 +2,17 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">I'm a junior web developer. I'm actively studying JavaScript, React and Node Js</h3>
-<hr>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=About+me+and+my+experience)](https://git.io/typing-svg)
+## About me and my experience
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Aimart)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Bitrix)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=University)](https://git.io/typing-svg)
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Tevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
