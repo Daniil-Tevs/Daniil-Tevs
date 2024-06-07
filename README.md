@@ -17,6 +17,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Bitrix+University)](https://git.io/typing-svg)
 
+<p>During the year he studied php, html, css and js, Bitrix Framework, gaining basic knowledge of the company’s development, process and development approaches. After completion and completion of the course made a couple of projects</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Baltic+Federal+Universityy)](https://git.io/typing-svg)
 
