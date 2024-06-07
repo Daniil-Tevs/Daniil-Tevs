@@ -14,7 +14,7 @@
 
 <p>В данной компании я проработал чуть больше года. В мои обязанности входило разработка сайтов на Bitrix и Wordpress, верстка сайтов, написание api, ajax запросов, настройка серверов и хостов по ftp и ssh. Список технологий, которые я использовал - php, html, css, js, bitrix и wordpress framework. Приведу наиболее известные работы - Папаша Беппе</a>, <a href="https://www.koleso39.com/" target="_blank">Колесо</a> и <a href="https://dreamhouse39.ru/" target="_blank">Dream House</a>
 
-I worked for this company for a little over a year. My responsibilities included development of websites on Bitrix and Wordpress, site layout, writing api, ajax queries, configuring servers and hosts on ftp and ssh. List of technologies I used - php, html, css, js, bitrix and wordpress framework. The most famous works - <a href="https://pabeppe.ru/" target="_blank">Papa Beppe</a>, <a href="https://www.koleso39.com/" target="_blank">Wheel</a> and <a href="https://dreamhouse39.ru/" target="_blank">Dream House</a></p>
+I worked for this company for a little over a year. My responsibilities included development of websites on Bitrix and Wordpress, site layout, writing api, ajax queries, configuring servers and hosts on ftp and ssh. List of technologies I used - php, html, css, js, bitrix and wordpress framework. The most famous works - <a href="https://pabeppe.ru/" target="_blank">"Papa Beppe"</a>, <a href="https://www.koleso39.com/" target="_blank">"Wheel"</a> and <a href="https://dreamhouse39.ru/" target="_blank">"Dream House"</a></p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffe5b4&lines=Bitrix+University)](https://git.io/typing-svg)
